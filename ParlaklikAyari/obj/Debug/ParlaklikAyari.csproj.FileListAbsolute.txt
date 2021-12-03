@@ -1,0 +1,11 @@
+C:\Users\techn\source\repos\ParlaklikAyari\bin\Debug\ParlaklikAyari.exe.config
+C:\Users\techn\source\repos\ParlaklikAyari\bin\Debug\ParlaklikAyari.exe
+C:\Users\techn\source\repos\ParlaklikAyari\bin\Debug\ParlaklikAyari.pdb
+C:\Users\techn\source\repos\ParlaklikAyari\obj\Debug\ParlaklikAyari.csproj.AssemblyReference.cache
+C:\Users\techn\source\repos\ParlaklikAyari\obj\Debug\ParlaklikAyari.csproj.SuggestedBindingRedirects.cache
+C:\Users\techn\source\repos\ParlaklikAyari\obj\Debug\ParlaklikAyari.ParlaklikAyari.resources
+C:\Users\techn\source\repos\ParlaklikAyari\obj\Debug\ParlaklikAyari.Properties.Resources.resources
+C:\Users\techn\source\repos\ParlaklikAyari\obj\Debug\ParlaklikAyari.csproj.GenerateResource.cache
+C:\Users\techn\source\repos\ParlaklikAyari\obj\Debug\ParlaklikAyari.csproj.CoreCompileInputs.cache
+C:\Users\techn\source\repos\ParlaklikAyari\obj\Debug\ParlaklikAyari.exe
+C:\Users\techn\source\repos\ParlaklikAyari\obj\Debug\ParlaklikAyari.pdb
